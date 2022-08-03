@@ -11,6 +11,10 @@ public class Demo {
 	{
 		System.out.println("Mehtod=====m2");
 	}
+	public void m3()
+	{
+		System.out.println("this is first pull ");
+	}
             public static void main(String[] args) {
 	
 	 System.out.println("Hello");
