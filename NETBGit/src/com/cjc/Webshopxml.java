@@ -51,7 +51,7 @@ public class Webshopxml {
 				System.out.println(ck.size());
 				
 			}
-			@Test
+			/*@Test
 			public void aloginCheck() throws InterruptedException
 			{
 				    driver.findElement(By.xpath("//input[@id='Email']")).sendKeys("vikky7841@gmail.com");
@@ -64,7 +64,7 @@ public class Webshopxml {
 			        
 			        
 				
-				}
+				}*/
 		  
 			@AfterMethod
 			public void captureScreen() throws IOException {
