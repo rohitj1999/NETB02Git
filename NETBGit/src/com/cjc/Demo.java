@@ -21,6 +21,11 @@ public class Demo {
 		System.out.println("this is ====== M3 ");
 	}
 	
+	public void m5()
+	{
+		System.out.println("this is ====== M5 ");
+	}
+	
 	
 	
       public static void main(String[] args) {
