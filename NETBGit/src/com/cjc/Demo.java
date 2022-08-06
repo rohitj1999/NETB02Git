@@ -12,7 +12,7 @@ public class Demo {
 		System.out.println("Mehtod=====m2");
 	}
 	
-	public void m.()
+	public void m3()
 	{
 		System.out.println("Mehtod=====m3");
 	}
