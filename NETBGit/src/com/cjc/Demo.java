@@ -11,6 +11,11 @@ public class Demo {
 	{
 		System.out.println("Mehtod=====m2");
 	}
+	
+	public void m.()
+	{
+		System.out.println("Mehtod=====m3");
+	}
             public static void main(String[] args) {
 	
 	 System.out.println("Hello");
